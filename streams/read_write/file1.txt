@@ -1,0 +1,1 @@
+this text came from file1, was streamed into file2, and now is catted via the child exec method
